@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Marvel Rivals is a Super Hero Team-Based PVP Shooter! Assemble an all-star Marvel squad, devise countless strategies by combining powers to form unique Team-Up skills and fight in destructible, ever-changing battlefields across the continually evolving Marvel universe!
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,14 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Windows 10 64-bit (1909 or newer) | macOS 11.0 or later |
+| **Processor** | Min: Intel Core i5-6600K or AMD Ryzen 5 1600X / Rec: Intel Core i5-10400 or AMD Ryzen 5 5600X | Intel Core i5 / Apple M1 |
+| **Memory** | 16 GB RAM | 16 GB RAM |
+| **Graphics** | Min: NVIDIA GeForce GTX 1060 / AMD RX 580 / Intel Arc A380 / Rec: NVIDIA GeForce RTX 2060 (Super) / AMD RX 5700-XT / Inte… | Metal-capable GPU |
+| **DirectX** | Version 12 | Version 12 |
+| **Storage** | 70 GB available space | 70 GB available space |
+| **Network** | Broadband Internet connection | Broadband Internet connection |
+| **Additional Notes** | We recommend you install the game on SSD drive for bett… | We recommend you install the game on SSD drive for bett… |
 
 ---
 
